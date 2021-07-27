@@ -1,0 +1,99 @@
+.container {
+    width: 100%;
+    overflow: hidden;
+}
+.item_big_img {
+    width: 100%;
+    height: 480px;
+}
+.item_big_img > img {
+    width: 80%;
+    margin: 0 40px;
+}
+.item_infoNorder {
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.d_star, .go_review {
+    margin-right: 5px;
+    font-size: 13px;
+    color: #61aa2e;
+}
+.go_review {
+    text-decoration: underline;
+}
+.item_title {
+    font-size: 25px;
+    letter-spacing: -2px;
+    font-weight: 900;
+    margin: 10px 0;
+}
+.i_tag {
+    font-size: 15px;
+    font-weight: 700;
+}
+.i_sm_desc {
+    margin: 10px 0;
+    font-size: 12px;
+    color: #222;
+}
+.go_buy {
+    width: 100%;
+    height: 50px;
+    margin: 20px 0;
+    background: #000;
+    color: #fff;
+    line-height: 50px;
+    text-align: center;
+}
+.item_detail_img {
+    width: 100%;
+    overflow: hidden;
+    background: #fff;
+}
+.section {
+    width: 100%;
+    overflow: hidden;
+}
+.s_click_box {
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background: #ddd;
+    border-bottom: 1px solid #eee;
+}
+.s_title {
+    font-size: 15px;
+    font-weight: 700;
+    float: left;
+    margin-left: 15px;
+}
+.s_more {
+    width: 15px;
+    height: 15px;
+    float: right;
+    margin-right: 15px;
+}
+.s_more > img {
+    width: 100%;
+}
+.detail_info {
+    width: 100%;
+    margin: 20px auto;
+    overflow: hidden;
+    text-align: center;
+}
+.detail_info > img {
+    width: 100%;
+}
+.i_line_title {
+    font-size: 16px;
+    font-weight: 700;
+    margin: 10px 0;
+}
+.i_line_desc, .i_mat_title {
+    font-size: 14px;
+}

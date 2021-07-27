@@ -1,0 +1,21 @@
+body { margin: 0;}
+h1, h2, h3, h4, h5, h6, ul, li, p {
+    margin: 0;
+    padding: 0;
+}
+ul { list-style: none; }
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.wrap {
+    width: 100%;
+    min-width: 1180px;
+    overflow: hidden;
+    position: relative;
+}
+.inner_container {
+    width: 100%;
+    padding-left: 120px;
+    box-sizing: border-box;
+}
